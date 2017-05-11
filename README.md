@@ -1,13 +1,3 @@
----
-layout: post
-title: "LYCE Lesson Nine"
-tag: "English"
-comment: true
-published: true
-date: 2012-09-25
-
----
-
 ### Part One
 
       1. I promise. You have my word. I won't do it again.
