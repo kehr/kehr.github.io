@@ -1,4 +1,4 @@
-[![stevejobs.jpg](https://s28.postimg.org/9av1i430t/stevejobs.jpg)](https://postimg.org/image/gqub3wqq1/)
+![stevejobs.jpg](https://s28.postimg.org/9av1i430t/stevejobs.jpg)
 
 I am honored to be with you today at your commencement from one of the finest universities in the world. I never graduated from college. Truth be told, this is the closest I’ve ever gotten to a college graduation. Today I want to tell you three stories from my life. That’s it. No big deal. Just three stories.
 
