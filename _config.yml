@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 title: 'Kehr'
 description: 'Design & Coding & Thinking'
-
+gems:
+   - jekyll-admin
+   - jemoji
