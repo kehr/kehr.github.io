@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+    <!--[if lt IE 10]>
+<div class="alert-danger" role="alert">你的浏览器过时了，为什么不考虑换一个呢？<a target="_blank" class="alert-link" href="http://browsehappy.com">立即升级</a></div>
+<![endif]-->
+    {{ content }}
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}assets/js/prism.js"></script>
+    <script src="{{ site.baseurl }}assets/js/index.min.js"></script>
+</body>
+</html>
