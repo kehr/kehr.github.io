@@ -33,6 +33,9 @@
 }
 
 @media screen and (max-width: 768px) {
+    .home-banner {
+        height: 330px;
+    }
     .post-wrapper, .markdown-body, .read-next {
         width: 92%;
     }
@@ -159,9 +162,9 @@
 
 @media screen and (max-width: 500px) {
     .home-banner {
-        height: 400px;
+        height: 300px;
         h2 {
-            padding-top: 180px;
+            padding-top: 120px;
             font-size: 28px;
             line-height: 48px;
         }
@@ -231,7 +234,7 @@
             font-family: "Helvetica Neue", Helvetica, Arial, "Pingfang SC", "Microsoft Yahei", Sans-serif;
         }
         .post-meta {
-            margin-top: 16px;
+            margin-top: -45px;
         }
     }
     .post-content {
