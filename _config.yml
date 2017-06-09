@@ -4,6 +4,7 @@ description: '生活'
 keyword: '前端, 美食, JavaScript, Python, MySQL'
 url: 'https://kehr.github.io' # your host
 baseurl: '/'
+permalink: /blog/:title
 
 # Default settings
 defaults:
