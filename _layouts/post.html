@@ -97,7 +97,7 @@ layout: default
     {% endif %}
 </section>
 <script src="{{ site.baseurl }}assets/js/social-share.min.js"></script>
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script src="{{ site.baseurl }}assets/js/gitment.browser.js"></script>
 <script>
     socialShare('.social-share', {
         sites: [{% for i in site.social-share-items %}'{{ i }}',{% endfor %}],
