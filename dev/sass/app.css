@@ -987,4 +987,6 @@ a {
     font-size: 16px; }
   .home-banner .header-img {
     width: 695px;
-    left: -100px; } }
+    left: -100px; }
+  .post-wrapper .post-meta {
+    margin-top: -75px; } }
