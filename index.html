@@ -82,7 +82,7 @@ header-img: 'assets/img/travel.jpg'
                 {% if forloop.index > site.recommend-condition-size %}
                     {% break %}
                 {% endif %}
-            <a href="tags/#{{ tag[0] }}" class="tag">{{ tag[0]}}</a>
+            <a href="tags#{{ tag[0] }}" class="tag">{{ tag[0]}}</a>
             {% endfor %}
         </section>
         {% endif %}
