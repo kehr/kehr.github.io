@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'Kehr 的个人博客'
-description: '生活'
-keyword: '前端, 美食, JavaScript, Python, MySQL'
+title: 'Kehr'
+description: '人生来就是孤独的，即使一个人孤独的活着，也要让自己过的好一点。'
+keyword: '前端, 美食, JavaScript, Python, MySQL, 新技术研究'
 url: 'https://kehr.github.io' # your host
 baseurl: '/'
 permalink: /blog/:title
@@ -15,6 +15,10 @@ defaults:
     values:
       layout: 'post' # Set default post layout
       comments: true # Default open the comments
+      cover: '/assets/img/'
+      categories: '未分类'
+      subtitle: ''
+      tags: ''
 
 # Navigation links
 nav:
@@ -31,7 +35,7 @@ avatar: 'assets/img/profile.jpeg'
 search: true
 
 # Global comments setting
-comments: true
+comments: false
 
 # Share
 social-share: true
