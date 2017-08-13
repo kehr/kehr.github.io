@@ -29,7 +29,7 @@ nav:
 author: 'Kehr'
 nickname: '无心'
 bio: '程序员 | 细节控 | 完美主义者'
-avatar: 'assets/img/profile.jpeg'
+avatar: '/assets/img/profile.jpeg'
 
 # Search
 search: true
