@@ -3,7 +3,7 @@ title: 'Kehr'
 description: '人生来就是孤独的，即使一个人孤独的活着，也要让自己过的好一点。'
 keyword: '前端, 美食, JavaScript, Python, MySQL, 新技术研究'
 url: 'https://kehr.github.io' # your host
-baseurl: '/'
+baseurl: '/' 
 permalink: /blog/:title
 
 # Default settings
