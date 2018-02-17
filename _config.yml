@@ -15,6 +15,10 @@ defaults:
     values:
       layout: 'post' # Set default post layout
       comments: true # Default open the comments
+      cover: '/assets/img/'
+      categories: '未分类'
+      subtitle: ''
+      tags: ''
 
 # Navigation links
 nav:
@@ -25,7 +29,7 @@ nav:
 author: 'Kehr'
 nickname: 'K'
 bio: '程序员 | 细节控 | 完美主义者'
-avatar: 'assets/img/profile.jpeg'
+avatar: '/assets/img/profile.jpeg'
 
 # Search
 search: true
