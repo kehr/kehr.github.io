@@ -4,7 +4,7 @@ subtitle: Stay Hungry, Stay Foolish.
 date: 2017-06-09
 categories: 人生
 cover: http://ora08j2rw.bkt.clouddn.com/SteveJobs.jpeg
-tags: 总结 演讲
+tags: 总结
 ---
 
 I am honored to be with you today at your commencement from one of the finest universities in the world. I never graduated from college. Truth be told, this is the closest I’ve ever gotten to a college graduation. Today I want to tell you three stories from my life. That’s it. No big deal. Just three stories.
@@ -60,3 +60,5 @@ Stewart and his team put out several issues of The Whole Earth Catalog, and then
 Stay Hungry. Stay Foolish.
 
 Thank you all very much.
+
+

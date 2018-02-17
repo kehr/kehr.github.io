@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: 'Kehr 的个人博客'
-description: '生活'
-keyword: '前端, 美食, JavaScript, Python, MySQL'
-url: 'https://kehr.github.io' # your host
+title: "Kehr"
+description: '自律更自由'
+keyword: '前端, 吃, JavaScript, Python, MySQL, 数据库'
+url: 'https://kehr.github.io' 
 baseurl: '/'
 permalink: /blog/:title
 
@@ -23,7 +23,7 @@ nav:
 
 # Author 配置博主信息
 author: 'Kehr'
-nickname: '无心'
+nickname: 'K'
 bio: '程序员 | 细节控 | 完美主义者'
 avatar: 'assets/img/profile.jpeg'
 
@@ -31,7 +31,7 @@ avatar: 'assets/img/profile.jpeg'
 search: true
 
 # Global comments setting
-comments: true
+comments: false
 
 # Share
 social-share: true

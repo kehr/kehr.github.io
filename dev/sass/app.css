@@ -220,8 +220,8 @@ a {
         font-size: 24px;
         line-height: 32px; }
       .article-list .article-item .post-preview .post-subtitle {
-        margin-top: 3px;
-        font-size: 18px;
+        margin-top: 10px;
+        font-size: 16px;
         font-weight: normal;
         color: #B8BDC3;
         line-height: 26px; }
