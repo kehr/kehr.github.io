@@ -349,7 +349,7 @@ a {
 
 .g-sidebar {
   float: right;
-  width: 240px;
+  width: 250px;
   padding: 30px 20px;
   background-color: #fff;
   border: 1px solid #E7EAF1;
@@ -372,7 +372,7 @@ a {
   margin-top: 16px;
   padding: 0;
   float: right;
-  width: 240px; }
+  width: 250px; }
   .search-card input, .search-card .search_item {
     font-size: 16px;
     color: #4E4E4E; }
@@ -884,7 +884,7 @@ a {
   .home-banner h3, .tags-banner h3 {
     margin-top: 8px; }
   .home-banner .header-img, .tags-banner .header-img {
-    width: 695px; }
+    width: 768px; }
   .home-content {
     margin-top: 0; }
   .article-list, .tags-content {
@@ -910,7 +910,7 @@ a {
       font-size: 18px;
       letter-spacing: 6px; }
     .home-banner .header-img {
-      width: 695px;
+      width: 768px;
       left: -100px; }
   .home-content {
     margin-bottom: 32px; }
@@ -986,7 +986,7 @@ a {
     margin-top: 4px;
     font-size: 16px; }
   .home-banner .header-img {
-    width: 695px;
+    width: 768px;
     left: -100px; }
   .post-wrapper .post-meta {
     margin-top: -75px; } }

@@ -1,9 +1,9 @@
 # Site settings 配置站点
-title: "Kehr"
-description: '自律更自由'
-keyword: '前端, 吃, JavaScript, Python, MySQL, 数据库'
+title: 'Kehr'
+description: '探索未知，永不止步。'
+keyword: '前端开发，Web服务开发，自动化测试，互联网产品思考与总结'
 url: 'https://kehr.github.io' 
-#baseurl: '/'
+baseurl: ''
 permalink: /blog/:title
 
 # Default settings
@@ -13,17 +13,18 @@ defaults:
       path: ''
       type: 'posts'
     values:
+      subtitle: ''
       layout: 'post' # Set default post layout
       comments: true # Default open the comments
-      cover: '/assets/img/'
-      categories: '未分类'
-      subtitle: ''
+      cover: '/assets/img/work.jpg'
+      categories: ''
       tags: ''
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags'
+  '首页': '/'
+  '文章分类': '/categories'
+  '标签': '/tags'
 
 # Author 配置博主信息
 author: 'Kehr'

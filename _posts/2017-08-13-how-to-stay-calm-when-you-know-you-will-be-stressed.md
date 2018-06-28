@@ -3,7 +3,7 @@ title: 如何在紧张状态下保持镇静
 layout: post
 comments: true
 cover: "/assets/img/ted.jpg"
-categories: TED
+categories: 社会人文
 tags: TED
 subtitle: 在事情没有完成之前，永远为最坏的情况做好准备。
 ---

@@ -62,7 +62,7 @@ tags: 产品 网易云 云服务 Qcon
 
 # 总结
 
-未来的云服务市场必定会比现在更精彩，个人开发和创业成本也会降到最低，期待一个合适的时机和靠谱的人做有趣的事情。以上是作者对云产品的一些粗浅看法，不到位的地方希望不吝指教。
+未来的云服务市场必定会比现在更精彩，个人开发和创业成本也会降到最低，期待一个合适的时机和靠谱的人做有趣的事情。
 
 
 [1]: https://mp.weixin.qq.com/s?src=3&timestamp=1525706439&ver=1&signature=plxFcNT4dK2Ge*jf97Yw6o4ec7dOgIQoVraZu4o8J1NqGtRWtXbbTlrbVgvwGKvgIeOVJi2p8XmIxgdzb2ajYihtnkuv22deJIIDi5dBcV4ipjiyAeCfyD9RJEIgR0i*Og3pZ0o88kZd9BcFVNJjOQ==
