@@ -4,7 +4,7 @@ description: '探索未知，永不止步。'
 keyword: '前端开发，Web服务开发，自动化测试，互联网产品思考与总结'
 url: 'https://kehr.github.io' 
 baseurl: ''
-permalink: /blog/:title
+permalink: /:categories/:title
 
 # Default settings
 defaults:
