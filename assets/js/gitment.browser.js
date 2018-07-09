@@ -2888,7 +2888,7 @@ function renderComments(_ref2, instance) {
       currentPage = _ref2.currentPage,
       user = _ref2.user,
       error = _ref2.error;
-
+  console.log(arguments);
   var container = document.createElement('div');
   container.lang = "en-US";
   container.className = 'gitment-container gitment-comments-container';
