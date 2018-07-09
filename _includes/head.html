@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="{{ "/assets/css/share.min.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/assets/css/app.min.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | prepend: site.url }}"/>
+    <script src="//msite.baidu.com/sdk/c.js?appid=1597254591003405"></script>
     <script type="application/ld+json">
         {
             "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
@@ -31,5 +32,14 @@
             "pubDate": "{{ page.date | date:"%Y-%m-%dT%H:%M:%S" }}"
         }
     </script>
-    <script src="//msite.baidu.com/sdk/c.js?appid=1597254591003405"></script>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?285d64cd8219cb36af9758f99b544a67";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+
 </head>
