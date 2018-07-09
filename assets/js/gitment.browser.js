@@ -3379,7 +3379,7 @@ var Gitment = function () {
       title: window.document.title,
       link: window.location.href,
       desc: '',
-      labels: [],
+      labels: [hash(window.location.pathname)],
       theme: _default2.default,
       oauth: {},
       perPage: 20,
