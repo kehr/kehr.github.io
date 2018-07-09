@@ -36,7 +36,7 @@ avatar: '/assets/img/profile.jpeg'
 search: true
 
 # Global comments setting
-comments: false
+comments: true
 
 # Share
 social-share: true
