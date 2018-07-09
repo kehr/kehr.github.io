@@ -8,7 +8,7 @@ layout: default
         <!-- <div class="post-tags"></div> -->
         <h1>{{ page.title }}</h1>
         <div class="post-meta">
-            <time class="post-meta-item" datetime="{{ page.date | date:"%Y-%m-%d" }}"><i class="iconfont icon-date"></i>{{ page.date | date:"%Y/%m/%d" }}</time>
+            <time class="post-meta-item" datetime="{{ page.date | date:"%Y-%m-%d %H:%M" }}"><i class="iconfont icon-date"></i>{{ page.date | date:"%Y/%m/%d %H:%M" }}</time>
             <span class="post-meta-item">
                 <div class="post-tags">
                     {% if page.tags.size > 0 %}

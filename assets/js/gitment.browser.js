@@ -1,3 +1,19 @@
+var hash = function(s) {
+    /* Simple hash function. */
+    var a = 1, c = 0, h, o;
+    if (s) {
+        a = 0;
+        /*jshint plusplus:false bitwise:false*/
+        for (h = s.length - 1; h >= 0; h--) {
+            o = s.charCodeAt(h);
+            a = (a<<6&268435455) + o + (o<<14);
+            c = a & 266338304;
+            a = c!==0?a^c>>21:a;
+        }
+    }
+    return String(a);
+};
+
 var Gitment =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -2888,7 +2904,6 @@ function renderComments(_ref2, instance) {
       currentPage = _ref2.currentPage,
       user = _ref2.user,
       error = _ref2.error;
-  console.log(arguments);
   var container = document.createElement('div');
   container.lang = "en-US";
   container.className = 'gitment-container gitment-comments-container';
@@ -3360,7 +3375,7 @@ var Gitment = function () {
     this.useTheme(_default2.default);
 
     Object.assign(this, {
-      id: window.location.href,
+      id: hash(window.location.pathname),
       title: window.document.title,
       link: window.location.href,
       desc: '',

@@ -6,6 +6,7 @@ comments: true
 cover: "/assets/img/tornado.png"
 categories: Tornado
 tags: tornado  bug
+date: '2018-07-09 16:30:00'
 ---
 
 Tornado 使用 mimetypes 探测文件的 mime 类型。当遇到 svg 文件时则无法确定，返回 None。
