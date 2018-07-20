@@ -30,7 +30,7 @@ nav:
 author: 'Kehr'
 nickname: 'K'
 bio: '程序员 | 细节控 | 完美主义'
-avatar: 'assets/img/profile.jpeg'
+avatar: '/assets/img/profile.jpeg'
 
 # Search
 search: true
