@@ -4,7 +4,6 @@ layout: post
 comments: true
 cover: "/assets/img/python-history.png"
 categories: Python秘史
-tags: python  类
+tags: Python  类
 ---
 
-ahaah
