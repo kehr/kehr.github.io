@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'Kehr'
+title: 'Kyle - Explore the Future of Life'
 description: '探索，永不止步。'
 keyword: '前端开发，Web服务开发，自动化测试，互联网产品思考与总结'
 url: 'https://blog.expture.com' 
@@ -27,9 +27,9 @@ nav:
   '标签': '/tags'
 
 # Author 配置博主信息
-author: 'Kehr'
+author: 'Kyle'
 nickname: 'K'
-bio: '程序员 | 细节控 | 完美主义'
+bio: '一片网络自留地'
 avatar: '/assets/img/profile.jpeg'
 
 # Search
