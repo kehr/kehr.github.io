@@ -1,30 +1,21 @@
-# Astro Starter Kit: Portfolio
+# kaixuan AI
 
-```sh
-npm create astro@latest -- --template portfolio
-```
+kaixuan AI is a creative studio dedicated to reconstructing digital workflows with AI technology, helping businesses and individuals save costs, improve efficiency, and enhance user experience.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
+## 📖 About
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+This is a modern static website built with [Astro](https://astro.build), showcasing kaixuan AI studio's AI-powered solutions and digital transformation expertise.
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+## 🔗 Links
 
-## 🧞 Commands
+- **Website**: [kaixuan.ai](https://kaixuan.ai)
+- **Blog**: [blog.kaixuan.ai](https://blog.kaixuan.ai)
+- **GitHub**: [@kehr](https://github.com/kehr)
 
-All commands are run from the root of the project, from a terminal:
+## 📚 Development Documentation
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+For detailed development instructions, please see [docs/development.md](./docs/development.md).
 
-## 👀 Want to learn more?
+---
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+© 2024 kaixuan AI. All rights reserved.

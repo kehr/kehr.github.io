@@ -6,7 +6,7 @@ import ThemeToggle from "./ThemeToggle.astro";
 /** Main menu items */
 const textLinks: { label: string; href: string; _blank?: boolean }[] = [
 	{ label: "Home", href: "/" },
-	{ label: "Projects", href: "/project" },
+	{ label: "Projects", href: "/projects" },
 	{ label: "Blog", href: "https://blog.kaixuan.ai", _blank: true },
 	// { label: 'Work', href: '/work/' },
 	{ label: "About", href: "/about/" },
@@ -44,7 +44,7 @@ const isCurrentPage = (href: string) => {
 				size="1.6em"
 				gradient
 			/>
-			Kaixuan AI
+			kaixuan AI
 		</a>
 		<menu-button>
 			<template>
@@ -71,7 +71,7 @@ const isCurrentPage = (href: string) => {
 									}
 								: {})}
 						>
-							{label}SD
+							{label}
 						</a>
 					</li>
 				))
